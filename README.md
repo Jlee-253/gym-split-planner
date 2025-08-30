@@ -1,5 +1,5 @@
 # Gym Split Planner
-
+This project was developed locally and uploaded as a complete portfolio piece
 A full-stack web application for creating and managing workout plans with volume analysis and sharing capabilities.
 
 ## Features
